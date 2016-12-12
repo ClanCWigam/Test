@@ -18,9 +18,11 @@
       <title>New Feed</title>
       <pubDate>Sun, 11 Dec 2016 22:58:18 GMT</pubDate>
       <link>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</link>
+      <guid isPermaLink="true">https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</guid>
       <author>@Jc</author>
       <comments>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</comments>
       <category>General</category>
+      <enclosure url="https://cdn.rawgit.com/ClanCWigam/Test/master/index.html" length="" type="" />
       <description><![CDATA[Done]]></description>
     </item>
   </channel>
