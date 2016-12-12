@@ -3,13 +3,13 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Airdrie Fixtures 2016/17</title>
-    <link>https://dl.dropboxusercontent.com/u/2356323/Airdrie%20Fixtures/index.html</link>
+    <link>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</link>
     <description>RSS Feed of Airdrie Fixtures</description>
     <language>en-us</language>
     <copyright>ALL CONTENT © AIRDRIEONIANS FOOTBALL CLUB</copyright>
     <image>
       <title>Airdrie Fixtures 2016/17</title>
-      <link>https://dl.dropboxusercontent.com/u/2356323/Airdrie%20Fixtures/index.html</link>
+      <link>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</link>
       <url>http://www.airdriefc.com/images/misc/leaguetablelogo4.png</url>
       <width>150</width>
       <height>250</height>
@@ -17,9 +17,9 @@
     <item>
       <title>New Feed</title>
       <pubDate>Sun, 11 Dec 2016 22:58:18 GMT</pubDate>
-      <link>https://dl.dropboxusercontent.com/u/2356323/Airdrie%20Fixtures/index.html</link>
+      <link>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</link>
       <author>@Jc</author>
-      <comments>https://dl.dropboxusercontent.com/u/2356323/Airdrie%20Fixtures/index.html</comments>
+      <comments>https://cdn.rawgit.com/ClanCWigam/Test/master/index.html</comments>
       <category>General</category>
       <description><![CDATA[Done]]></description>
     </item>
